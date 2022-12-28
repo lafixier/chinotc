@@ -6,6 +6,11 @@ Chinotc is a tool to manage compilers and libraries for Chinort ([lafixier/chino
 
 ## Installation
 
+You need:
+
+- curl
+- Nim
+
 ### Linux
 
 Run the following command in your terminal:
